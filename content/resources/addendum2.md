@@ -4,8 +4,6 @@ description: This resource contains additional materials for problem set 2's sol
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/bbde90800250f9c0c1cd1bc4e9c42981_addendum2.pdf
 file_size: 8565
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

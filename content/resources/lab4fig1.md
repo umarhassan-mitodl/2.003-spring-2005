@@ -5,8 +5,6 @@ description: 'Figure 1. Idealization: spring, mass, damper with step force input
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/93e64a3ce653284c9a76c6a1a0bf5afb_lab4fig1.gif
 file_size: 1310
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

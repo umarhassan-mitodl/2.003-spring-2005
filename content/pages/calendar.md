@@ -2,8 +2,6 @@
 content_type: page
 description: This section gives the course schedule for entire class along with the
   lecture and lab topics.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

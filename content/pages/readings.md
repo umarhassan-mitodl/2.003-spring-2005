@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains chapterwise reading for every lecture topic in
   the course schedule.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

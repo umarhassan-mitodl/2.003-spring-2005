@@ -6,8 +6,6 @@ description: This resource contains problems on differential equation for the de
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/abfa2a1476349f582c6022f29db93d59_quiz1_3.pdf
 file_size: 49759
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

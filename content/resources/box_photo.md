@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/3cda07b01c0b6126c45a68a89bba61dd_box_photo.jpg
 file_size: 73807
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

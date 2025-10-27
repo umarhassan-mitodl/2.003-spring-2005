@@ -4,8 +4,6 @@ description: Figure 4. Close-up spring collar attachment. (Image by Prof. Trumpe
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/6564277721b650eabdbf8b25814da615_lab3fig4.jpg
 file_size: 31934
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

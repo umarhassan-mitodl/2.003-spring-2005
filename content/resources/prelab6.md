@@ -6,8 +6,6 @@ description: This resource contains informatin on the purpose of this lab which 
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/fd2d2a59607f65acf53e3230fd71f5d0_prelab6.pdf
 file_size: 249055
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

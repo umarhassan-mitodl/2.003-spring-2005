@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains files associated with some tools to be used in
   this course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -19,4 +17,4 @@ Below are some tools for this course:
 
 Introduction to MATLAB® at 6.003 ({{% resource_link b6f3a9d5-e03a-ee4a-72b1-55bf08e0e40a "PDF" %}})
 
-[MATLAB® Primer](http://math.ucsd.edu/~driver/21d-s99/matlab-primer.html)
+{{% resource_link "4c9da6e2-b5d0-4b92-bef5-2567fa786702" "MATLAB® Primer" %}}

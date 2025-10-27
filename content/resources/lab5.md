@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/e373c9b21cbe617f6202ab86b2ed40bc_lab5.zip
 file_size: 4236
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

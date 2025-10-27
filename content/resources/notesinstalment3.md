@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/96347b94470d97e77646da0f8cbc3a1f_notesinstalment3.pdf
 file_size: 1123707
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

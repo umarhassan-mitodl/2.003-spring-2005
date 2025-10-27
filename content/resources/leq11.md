@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/c05c09a958d7bb049f4ad9ef3563cdf8_leq11.jpg
 file_size: 16682
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

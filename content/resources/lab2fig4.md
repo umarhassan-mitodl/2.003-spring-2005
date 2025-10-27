@@ -6,8 +6,6 @@ description: Figure 4. The end of the shaft is supported by a ball bearing ridin
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/a59dc6180b55785950ee0233c0664fda_lab2fig4.gif
 file_size: 4307
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

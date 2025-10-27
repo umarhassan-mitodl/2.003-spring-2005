@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the 12 assignments for the course along with the
   associated files and the problem numbers useful for these assignment sessions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -5,8 +5,6 @@ description: This resource contains notes on transfer functions and supporting e
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/4279e5532311c0efa85e51fd0fb344c1_transf_func_scan.pdf
 file_size: 217422
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

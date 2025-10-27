@@ -5,8 +5,6 @@ description: Figure 1. Idealization of the RLC circuit used in this lab. (Image 
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/423e4b947aaf4f48e647ada77f8c7dc8_lab6fig1.gif
 file_size: 1717
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

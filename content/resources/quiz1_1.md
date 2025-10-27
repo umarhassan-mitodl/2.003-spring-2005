@@ -5,8 +5,6 @@ description: This quiz has three problems. The numerical weighting of each probl
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/855418b03814f1b1d22ca8ae44473303_quiz1_1.pdf
 file_size: 63480
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

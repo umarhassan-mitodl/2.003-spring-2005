@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains supplementary documents and useful materials for
   additional reference.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

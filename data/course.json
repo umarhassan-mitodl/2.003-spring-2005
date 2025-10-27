@@ -37,7 +37,6 @@
     "website": "2-003-modeling-dynamics-and-control-i-spring-2005"
   },
   "course_title": "Modeling Dynamics and Control I",
-  "hide_download": true,
   "course_description": "This course is the first of a two term sequence in modeling, analysis and control of dynamic systems. The various topics covered are as follows: mechanical translation, uniaxial rotation, electrical circuits and their coupling via levers, gears and electro-mechanical devices, analytical and computational solution of linear differential equations, state-determined systems, Laplace transforms, transfer functions, frequency response, Bode plots, vibrations, modal analysis, open- and closed-loop control, instability, time-domain controller design, and introduction to frequency-domain control design techniques. Case studies of engineering applications are also covered.\n",
   "department_numbers": [
     "2"
@@ -48,7 +47,6 @@
     "content": "afb66b25-7b5c-3bb0-c431-1d279f97734d",
     "website": "2-003-modeling-dynamics-and-control-i-spring-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Demonstration Videos",
     "Exams",

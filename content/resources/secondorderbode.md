@@ -5,8 +5,6 @@ description: This resource contains the graph on Bode plot of Underdamped Second
 file: /courses/2-003-modeling-dynamics-and-control-i-spring-2005/195f37d82d98cc12ea82ecb38a3a9fe6_secondorderbode.pdf
 file_size: 67344
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
